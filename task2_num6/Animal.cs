@@ -1,4 +1,4 @@
-﻿namespace Task2_animal
+﻿namespace task2_num6
 {
     //базовый класс животного
     internal class Animal
